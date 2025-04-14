@@ -1,3 +1,10 @@
 #aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 #include <stdio.h>
-#include <stdlib.h>
+
+
+
+asdssssssssssssss
+
+
+abort
+s
