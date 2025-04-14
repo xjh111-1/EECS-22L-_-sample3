@@ -1,0 +1,30 @@
+[33mcommit adc2f591859c5cc46414356c9b4372343aef6f98[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mtest[m[33m)[m
+Author: Junhan <junhanx@uci.edu>
+Date:   Mon Apr 14 13:22:24 2025 -0700
+
+    main c test
+
+[33mcommit 49b3042d21d378018205d588986a89ff2167b7c1[m
+Author: Junhan <junhanx@uci.edu>
+Date:   Mon Apr 14 13:20:54 2025 -0700
+
+    test branch
+
+[33mcommit b9c11481c8efbbf9612a71528966790983b59163[m
+Author: Junhan <junhanx@uci.edu>
+Date:   Mon Apr 14 13:15:36 2025 -0700
+
+    Change file
+
+[33mcommit 5fb6cffcae95f63beb5af6006f5509ef458bc37e[m
+Author: Junhan <junhanx@uci.edu>
+Date:   Mon Apr 14 13:10:57 2025 -0700
+
+    Initial commit: Adding files and initiate ignore
+    Changes to be committed:
+            new file:   .gitignore
+            new file:   dir1/New Text Document - Copy (2).txt
+            new file:   dir1/New Text Document - Copy.txt
+            new file:   dir1/New Text Document.txt
+            new file:   main.c
+            new file:   test.c
